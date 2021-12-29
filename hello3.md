@@ -21,6 +21,3 @@
 - bye
 - hi
 - hello
-
-## revert
-- tired
